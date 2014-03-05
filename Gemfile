@@ -13,3 +13,4 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 ## Sean adding custom gems here
 gem "haml"
 gem "middleman-deploy"
+gem "sass"
